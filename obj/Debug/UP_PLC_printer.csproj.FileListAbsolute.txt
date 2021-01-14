@@ -1,0 +1,15 @@
+C:\Users\mfran\Documents\github\UP_PLC_printer\UP_PLC_printer\bin\Debug\UP_PLC_printer.exe.config
+C:\Users\mfran\Documents\github\UP_PLC_printer\UP_PLC_printer\bin\Debug\UP_PLC_printer.exe
+C:\Users\mfran\Documents\github\UP_PLC_printer\UP_PLC_printer\bin\Debug\UP_PLC_printer.pdb
+C:\Users\mfran\Documents\github\UP_PLC_printer\UP_PLC_printer\obj\Debug\UP_PLC_printer.csprojAssemblyReference.cache
+C:\Users\mfran\Documents\github\UP_PLC_printer\UP_PLC_printer\obj\Debug\MainWindow.g.cs
+C:\Users\mfran\Documents\github\UP_PLC_printer\UP_PLC_printer\obj\Debug\App.g.cs
+C:\Users\mfran\Documents\github\UP_PLC_printer\UP_PLC_printer\obj\Debug\UP_PLC_printer_MarkupCompile.cache
+C:\Users\mfran\Documents\github\UP_PLC_printer\UP_PLC_printer\obj\Debug\UP_PLC_printer_MarkupCompile.lref
+C:\Users\mfran\Documents\github\UP_PLC_printer\UP_PLC_printer\obj\Debug\MainWindow.baml
+C:\Users\mfran\Documents\github\UP_PLC_printer\UP_PLC_printer\obj\Debug\UP_PLC_printer.g.resources
+C:\Users\mfran\Documents\github\UP_PLC_printer\UP_PLC_printer\obj\Debug\UP_PLC_printer.Properties.Resources.resources
+C:\Users\mfran\Documents\github\UP_PLC_printer\UP_PLC_printer\obj\Debug\UP_PLC_printer.csproj.GenerateResource.cache
+C:\Users\mfran\Documents\github\UP_PLC_printer\UP_PLC_printer\obj\Debug\UP_PLC_printer.csproj.CoreCompileInputs.cache
+C:\Users\mfran\Documents\github\UP_PLC_printer\UP_PLC_printer\obj\Debug\UP_PLC_printer.exe
+C:\Users\mfran\Documents\github\UP_PLC_printer\UP_PLC_printer\obj\Debug\UP_PLC_printer.pdb
